@@ -6,7 +6,7 @@ You must compute the final price after applying the discount using:
 discountAmount = ( price * percent ) / 100
 
 discountedPrice = price - discountAmount
-Important Instructions
+Important Instructions 
 
 Do NOT write the full logic inside main().
 Create and use the following function: float discounted(float price, float percent);
