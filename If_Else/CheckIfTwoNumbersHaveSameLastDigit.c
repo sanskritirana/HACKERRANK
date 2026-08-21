@@ -8,7 +8,7 @@ Input Format
 
 Two space separated integers: {a} {b}
 
-Constraints
+Constraints 
 
 0 ≤ a, b ≤ 10^9
 Output Format
