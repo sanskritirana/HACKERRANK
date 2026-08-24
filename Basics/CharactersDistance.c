@@ -1,7 +1,7 @@
 /*
 Write a program that takes two lowercase characters and prints how many letters apart they are in the alphabet.
 
-Input Format
+Input Format 
 
 Two lowercase characters char1 and char2 separated by space.
 
