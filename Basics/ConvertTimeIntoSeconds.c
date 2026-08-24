@@ -1,5 +1,5 @@
 /*
-You are given hours, minutes, and seconds.
+You are given hours, minutes, and seconds. 
 Convert the entire time into total seconds.
 
 Important Instructions
