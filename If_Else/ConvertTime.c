@@ -1,4 +1,4 @@
-/*
+/* 
 You are given two integers h and m, representing time in 24-hour format:
 
 h → Hour (0 to 23)
