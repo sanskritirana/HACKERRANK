@@ -1,4 +1,4 @@
-/*
+/* 
 Write a program that takes two integers as input and prints their sum.
 
 Input Format
