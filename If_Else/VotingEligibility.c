@@ -1,5 +1,5 @@
 /*
-You are given an integer age.
+You are given an integer age. 
 Your task is to check whether the person is eligible to vote.
 
 A person is eligible to vote if:
