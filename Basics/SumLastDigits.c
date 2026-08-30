@@ -1,4 +1,4 @@
-/*
+/* 
 Given two integers, extract their last digits and print the sum of those digits.
 
 Important Instructions
